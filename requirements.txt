@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain-openai
+langchain-community
+e2b-code-interpreter
+python-dotenv
+tavily-python
+chainlit            # The UI
+pandas              # For local testing if needed
